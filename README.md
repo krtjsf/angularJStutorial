@@ -1,1 +1,1 @@
-"# angularJStutorial" 
+AngularJS Tutorial Skeleton
